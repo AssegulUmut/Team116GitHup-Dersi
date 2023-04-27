@@ -19,7 +19,16 @@ public class C01 {
     mavi: bu class bir versiyona eklendi ama sonradan degisiklik yapildi
     siyah:bu class bir versiyonda yedeklendi sonrasinda hicbir degisiklik yapilmadi
 
-    3.
+    3.git push  : local repo'da commit ettigimiz dosyalarimizi uzak masaustu(GitHub)ne
+    yollamak icin kullaniriz
+
+     Local bilgisayarda olusturdugumuz bir repo'yu GitHup'a yollamak ve orada yedeklemek
+     istiyorsak öncelikle GitHup hesabi olusturmak ve sonrasinda projemizi gönderecegimiz
+     GitHup repo'suhazırlarız
+
+     GitHup'da yeni bir repository olusturdugumzda ilk kullanimda, local repo ile
+     remoot reposu arasinda bir baglanti kurmamiz gerekir
+
 
 
 
